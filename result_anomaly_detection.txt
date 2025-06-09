@@ -1,15 +1,12 @@
-anomaly_detection_PSM_TimesNet_TimesNet_PSM_ftM_sl100_ll0_pl0_dm128_nh8_el2_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-Accuracy : 0.9654, Precision : 0.9960, Recall : 0.8787, F-score : 0.9337 
-
-anomaly_detection_test_timesnet_new_TimesNet_new_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-Accuracy : 0.9887, Precision : 0.8840, Recall : 0.8375, F-score : 0.8601 
-
-anomaly_detection_test_timesnet_new_TimesNet_new_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-Accuracy : 0.9888, Precision : 0.8803, Recall : 0.8443, F-score : 0.8619 
+anomaly_detection_test_timesnet_new_TimesNet_new_SMD_ftM_sl100_ll0_pl0_dm256_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9897, Precision : 0.8868, Recall : 0.8614, F1-score : 0.8739 
 
 anomaly_detection_SMD_TimesNet_TimesNet_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
-Accuracy : 0.9879, Precision : 0.8840, Recall : 0.8156, F-score : 0.8485 
+Accuracy : 0.9879, Precision : 0.8840, Recall : 0.8156, F1-score : 0.8485 
 
-anomaly_detection_test_timesnet_new_TimesNet_new_SMD_ftM_sl100_ll0_pl0_dm256_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
-Accuracy : 0.9897, Precision : 0.8868, Recall : 0.8614, F-score : 0.8739 
+anomaly_detection_test_timesnet_new_TimesNet_new_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9893, Precision : 0.8851, Recall : 0.8533, F1-score : 0.8689 
+
+anomaly_detection_TimesNet_PKI_TimesNet_PKI_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el2_dl1_df128_fc1_ebtimeF_dtTrue_PKI_Optimized_0  
+Accuracy : 0.9892, Precision : 0.8917, Recall : 0.8419, F1-score : 0.8661 
 
