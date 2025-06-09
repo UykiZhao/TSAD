@@ -166,7 +166,7 @@ class DualBranchBlock(nn.Module):
         Returns:
             Output tensor of shape (B, T, C)
         """
-        # 复制输入数据给两个分支（暂时不做小波增强，直接复制）
+        # 复制输入数据给两个分支
         x_periodic = x.clone()    # 给周期分支
         x_aperiodic = x.clone()   # 给非周期分支
         
