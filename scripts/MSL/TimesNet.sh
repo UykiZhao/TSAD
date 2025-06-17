@@ -1,0 +1,25 @@
+#!/bin/bash
+
+python -u run.py \
+  --is_training 1 \
+  --model_id MSL_TimesNet \
+  --model TimesNet \
+  --data MSL \
+  --root_path ./data/MSL/ \
+  --features M \
+  --seq_len 100 \
+  --pred_len 0 \
+  --enc_in 55 \
+  --dec_in 55 \
+  --c_out 55 \
+  --des 'Exp' \
+  --d_model 32 \
+  --d_ff 64 \
+  --e_layers 1 \
+  --top_k 5 \
+  --num_kernels 6 \
+  --dropout 0.1 \
+  --batch_size 32 \
+  --learning_rate 0.0001 \
+  --train_epochs 10 \
+  --patience 3 

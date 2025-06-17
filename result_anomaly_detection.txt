@@ -1,0 +1,42 @@
+anomaly_detection_SMD_DualScopeNet_DualScopeNet_SMD_ftM_sl100_ll0_pl0_dm256_nh8_el3_dl1_df256_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9895, Precision : 0.8849, Recall : 0.8598, F1-score : 0.8722 
+
+anomaly_detection_SMD_Autoformer_Autoformer_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9781, Precision : 0.7845, Recall : 0.6511, F1-score : 0.7116 
+
+anomaly_detection_SMD_Informer_Informer_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc5_ebtimeF_dtFalse_Exp_0  
+Accuracy : 0.9781, Precision : 0.7836, Recall : 0.6525, F1-score : 0.7120 
+
+anomaly_detection_SMD_Transformer_Transformer_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9781, Precision : 0.7844, Recall : 0.6525, F1-score : 0.7124 
+
+anomaly_detection_SMD_TimesNet_TimesNet_SMD_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9879, Precision : 0.8840, Recall : 0.8156, F1-score : 0.8485 
+
+anomaly_detection_PSM_Autoformer_Autoformer_PSM_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9416, Precision : 0.9999, Recall : 0.7896, F1-score : 0.8824 
+
+anomaly_detection_PSM_Informer_Informer_PSM_ftM_sl100_ll0_pl0_dm128_nh8_el2_dl1_df128_fc5_ebtimeF_dtFalse_Exp_0  
+Accuracy : 0.9525, Precision : 0.9989, Recall : 0.8297, F1-score : 0.9065 
+
+anomaly_detection_PSM_TimesNet_TimesNet_PSM_ftM_sl100_ll0_pl0_dm128_nh8_el2_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9652, Precision : 0.9962, Recall : 0.8778, F1-score : 0.9333 
+
+anomaly_detection_PSM_DualScopeNet_DualScopeNet_PSM_ftM_sl100_ll0_pl0_dm128_nh8_el3_dl1_df128_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9515, Precision : 0.9858, Recall : 0.8371, F1-score : 0.9054 
+
+anomaly_detection_SWAT_TimesNet_TimesNet_SWAT_ftM_sl100_ll0_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9883, Precision : 0.9765, Recall : 0.9258, F1-score : 0.9505 
+
+anomaly_detection_SWAT_DualScopeNet_DualScopeNet_SWAT_ftM_sl100_ll0_pl0_dm64_nh8_el3_dl1_df64_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9861, Precision : 0.9551, Recall : 0.9293, F1-score : 0.9420 
+
+anomaly_detection_SWAT_Autoformer_Autoformer_SWAT_ftM_sl100_ll0_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9581, Precision : 0.9996, Recall : 0.6556, F1-score : 0.7918 
+
+anomaly_detection_SWAT_Informer_Informer_SWAT_ftM_sl100_ll0_pl0_dm64_nh8_el2_dl1_df64_fc5_ebtimeF_dtFalse_Exp_0  
+Accuracy : 0.9581, Precision : 0.9993, Recall : 0.6555, F1-score : 0.7917 
+
+anomaly_detection_SWAT_Transformer_Transformer_SWAT_ftM_sl100_ll0_pl0_dm64_nh8_el2_dl1_df64_fc1_ebtimeF_dtTrue_Exp_0  
+Accuracy : 0.9581, Precision : 0.9993, Recall : 0.6555, F1-score : 0.7917 
+

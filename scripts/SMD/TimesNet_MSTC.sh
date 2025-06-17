@@ -1,0 +1,23 @@
+python run.py \
+    --is_training 1 \
+    --model_id test_timesnet_MSTC \
+    --model Timesnet_MSTC \
+    --data SMD \
+    --root_path ./data/SMD/ \
+    --features M \
+    --pred_len 0 \
+    --enc_in 38 \
+    --dec_in 38 \
+    --c_out 38 \
+    --seq_len 100 \
+    --d_model 128 \
+    --d_ff 128 \
+    --train_epochs 10 \
+    --top_k 5 \
+    --dropout 0.1 \
+    --batch_size 256 \
+    --patience 3 \
+    --learning_rate 0.0001 \
+    --anomaly_ratio 0.5 \
+    --des 'Exp' \
+    --e_layers 3
